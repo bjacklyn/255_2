@@ -1,4 +1,7 @@
-**Tabular Classification/Regression original colab links**
+**Youtube video demonstrating colabs**
+* https://www.youtube.com/watch?v=k-xBjhW0tiM
+
+**Original colab links**
 
 * a.1 tabular-quick-start.ipynb: https://colab.research.google.com/drive/1fSXe0ziMd7B989QCTdoh7ylWvNzLZrCi?usp=sharing
 * a.1 tabular-indepth.ipynb: https://colab.research.google.com/drive/1YgKZyLdDaPQkDHwCFzKEZrUXuIqCstdk?usp=sharing
