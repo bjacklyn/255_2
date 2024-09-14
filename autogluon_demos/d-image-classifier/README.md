@@ -1,7 +1,7 @@
 # Image Classifier
 
 **Youtube video demonstrating colabs**
-* <todo>
+* https://www.youtube.com/watch?v=xUGZEZ-sLTU
 
 **My colab links**
 
